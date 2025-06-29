@@ -1,4 +1,5 @@
 # Daily Learning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" height= "80" align="right">
 - Revisión de habilidades blandas
 - Ejercicios de programación
 - Vivir
